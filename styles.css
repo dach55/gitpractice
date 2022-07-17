@@ -5,4 +5,6 @@ body{
 
 h1{
     background-color: aqua;
+    text-size-adjust: 10;
+    color: red;
 }
